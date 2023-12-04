@@ -1,7 +1,6 @@
 package admin.catalogo.domain.category; 
 
 import java.time.Instant;
-import java.util.UUID;
 
 import admin.catalogo.domain.AggregateRoot;
 

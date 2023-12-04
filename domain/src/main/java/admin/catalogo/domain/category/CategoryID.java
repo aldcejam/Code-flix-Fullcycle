@@ -5,6 +5,8 @@ import java.util.UUID;
 
 import admin.catalogo.domain.Identifier;
 
+
+/* pergunta: então o protected final ID id; de Entity é o valor de value daqui? */
 public class CategoryID extends Identifier {
     
     private final String value;

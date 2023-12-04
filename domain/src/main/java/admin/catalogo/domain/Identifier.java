@@ -1,5 +1,5 @@
 package admin.catalogo.domain;
 
-public class Identifier extends ValueObject {
+public abstract class Identifier extends ValueObject {
     
 }

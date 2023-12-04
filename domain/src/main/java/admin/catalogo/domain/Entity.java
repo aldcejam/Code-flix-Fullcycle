@@ -1,7 +1,7 @@
 package admin.catalogo.domain;
 import java.util.Objects;
 
-public class Entity<ID extends Identifier> {
+public abstract class Entity<ID extends Identifier> {
     protected final ID id;
 
     protected Entity(final ID id) {
